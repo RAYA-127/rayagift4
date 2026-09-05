@@ -273,9 +273,9 @@ function App() {
                 <div className="heart-divider"><span /> <Heart size={14} fill="currentColor" /> <span /></div>
                 <div className="letter-body">
                   <p>There are so many things I want to say, but somehow the most important ones always feel too big for words.</p>
-                  <p>You make the quiet days warmer, the loud days lighter, and every ordinary moment feel like something I should keep forever. With you, I have found a kind of happiness I never knew I was looking for.</p>
-                  <p>Thank you for being exactly who you are. Thank you for every laugh, every little kindness, and for letting me be part of your world. I promise to show up, to listen, to choose you in all the small ways, every day.</p>
-                  <p>So here is my whole heart, wrapped up in one simple question: will you stay with me for all the chapters still waiting to be written?</p>
+                  <p>You make the quiet days warmer, the loud days lighter, and every ordinary moment feel like something I should keep forever. With you, I have found a kind of happiness I never knew I was looking for.💝💝💘</p>
+                  <p>Thank you for being exactly who you are. Thank you for every laugh, every little kindness💗💗, and for letting me be part of your world. I promise to show up, to listen, to choose you in all the small ways, every day💞💝💖.</p>
+                  <p>So here is my whole heart, wrapped up in one simple question: will you stay with me for all the chapters still waiting to be written? I know you stay with me always love youuuuuuu sooooo  muchhh bangarammmmm🥰😘💖 soryy bangaram for late reaction for that moment , i just imagine we both of us , we live happily like that , i just ran to you hugged at that moment , i'm reallyyyyy soooooooooo happyyyyyyyy for that bangarammmmm 💘💘💞💕💖💗💖 , i wont repeat this again i'm very  sorryyy nannaluuu for my late reactitonn,  i decided that moment i suprise you with another big moment like thissss 😚😚😘🥰,soo.. love youuuuuuuuuuuuuu soooo muchh bangarammm 💎💝🎉🎊ummmaaaaaaaaaaaaa😘😘🥰</p>
                   <div className="letter-signature">Forever yours,<br /><em>With all my heart and soul</em> <Heart size={13} fill="currentColor" /></div>
                 </div>
                 <button className="primary-button letter-action" onClick={() => setStep(5)}>Yes, I'm Yours Forever! <Heart size={14} fill="currentColor" /></button>
