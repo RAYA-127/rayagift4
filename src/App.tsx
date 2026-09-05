@@ -15,25 +15,29 @@ import {
   VolumeX,
   X,
 } from 'lucide-react';
+import memory1 from './assets/images/memory1.jpg';
+import memory2 from './assets/images/memory2.jpg';
+import memory3 from './assets/images/memory3.jpg';
+import memory4 from './assets/images/memory4.png';
 
 const memories = [
   {
-    image: 'https://images.pexels.com/photos/1024963/pexels-photo-1024963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+    image: memory1,
     title: 'Where it all began',
     note: 'The world felt a little softer that day.',
   },
   {
-    image: 'https://images.pexels.com/photos/5804012/pexels-photo-5804012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+    image: memory2,
     title: 'Every little moment',
     note: 'You make the ordinary feel extraordinary.',
   },
   {
-    image: 'https://images.pexels.com/photos/4241751/pexels-photo-4241751.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+    image: memory3,
     title: 'Always us',
     note: 'And somehow, my favorite place is still beside you.',
   },
   {
-    image: 'https://images.pexels.com/photos/1024980/pexels-photo-1024980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+    image: memory4,
     title: 'A little forever',
     note: 'Some promises are worth making again and again.',
   },
